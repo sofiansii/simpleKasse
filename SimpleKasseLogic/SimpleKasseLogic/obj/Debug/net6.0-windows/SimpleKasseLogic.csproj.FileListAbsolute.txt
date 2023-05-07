@@ -1,0 +1,14 @@
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.csproj.AssemblyReference.cache
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.AssemblyInfoInputs.cache
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.AssemblyInfo.cs
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.csproj.CoreCompileInputs.cache
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\bin\Debug\net6.0-windows\SimpleKasseLogic.deps.json
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\bin\Debug\net6.0-windows\SimpleKasseLogic.runtimeconfig.json
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\bin\Debug\net6.0-windows\SimpleKasseLogic.dll
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\bin\Debug\net6.0-windows\SimpleKasseLogic.pdb
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.dll
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\refint\SimpleKasseLogic.dll
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.pdb
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\SimpleKasseLogic.genruntimeconfig.cache
+C:\Users\yuki\source\repos\SimpleKasseLogic\SimpleKasseLogic\obj\Debug\net6.0-windows\ref\SimpleKasseLogic.dll
